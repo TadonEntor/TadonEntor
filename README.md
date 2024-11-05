@@ -1,4 +1,4 @@
-<img width="900" src="https://github.com/TadonEntor/Social-Media/blob/main/Banner%20Snipping.png">
+<img width="900" height="400" src="https://github.com/TadonEntor/Social-Media/blob/main/Banner%20Snipping.png">
 
 <h1> Hi! This is Samuel! 
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
@@ -8,7 +8,7 @@
     alt="Samuel-pw" /> 
   </p>
  
-<h2>Here are some ideas to get you started:</h2>
+<h2>About Me:</h2>
 
 <!-- Brief Description -->
 - 📚 I am currently studying at [Enyoi Academy] (https://www.enyoi.co/fullstack-reactjs-node-js/)
@@ -56,6 +56,21 @@ alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a>
+
+ &nbsp;<h3>Databases</h3>
+
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
+&nbsp;<h3>Version Controll & Tools</h3> 
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
 
 <h3>Statistical Data :</h3>
 <p><img align="center"
