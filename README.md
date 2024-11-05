@@ -18,6 +18,9 @@
 - 🏙 I am also a  Senior Customer Services Specialist, Semi Senior Seller, Bussiness Developer with more than 4 years in BPO industry.
 
 - 📫 How to reach me **Samuelo12396@gmail.com**
+
+  <p><img align="right" src="https://github.com/TadonEntor/Front-Page-Images-/blob/main/animation_500_kxa883sd.gif" alt="Samuel-Gif" /></p>
+
   <br>
   <!-- Contact -->
   <h3 align="left">Connect with me:</h3>
@@ -45,4 +48,17 @@ alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs" width="40" height="40" /> </a>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react" width="40" height="40" /> </a>
 
+<h3>Statistical Data :</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
