@@ -1,3 +1,5 @@
+<img weidth="900" src="https://github.com/TadonEntor/Social-Media/blob/main/Banner%20Snipping.png">
+
 ## Hi there 👋
 
 <!--
