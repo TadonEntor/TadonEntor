@@ -1,11 +1,10 @@
 <img weidth="900" src="https://github.com/TadonEntor/Social-Media/blob/main/Banner%20Snipping.png">
 
-## Hi there 👋
-
-<!--
-**TadonEntor/TadonEntor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1> Hi! This is Samuel! 
+<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'></p>
+ 
+<h2>Here are some ideas to get you started:</h2>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
