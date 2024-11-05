@@ -14,10 +14,8 @@
 - 🏙 I am also a  Senior Customer Services Specialist, Semi Senior Seller, Bussiness Developer with more than 4 years in BPO industry.
 
 - 📫 How to reach me **Samuelo12396@gmail.com**
-
-- <!-- Contact -->
-
-- <p align="left">
+<!-- Contact -->
+<p align="left">
 <a href="https://www.linkedin.com/in/samuel-ortega-diaz-b5548ba9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Samuel Ortega" height="30" width="40" /></a>
 <a href="https://https://www.instagram.com/samue12396/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Samuel Ortega" height="30" width="40" /></a>
 <a href="https://www.facebook.com/samuelo12396/" class="text-underline font-size-sm" target="_blank">Facebook</a>  <a href="https://iconscout.com/contributors/pixel-icons" class="text-underline font-size-sm">Pixel Icons</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
